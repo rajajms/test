@@ -1,0 +1,1 @@
+print("all_check file")
